@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoPro HUD</string>
+    <string name="title_section1">Control</string>
+    <string name="title_section2">Opciones</string>
+    <string name="title_section3">Galeria</string>
+    <string name="title_section4">Ayuda</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">ExAc</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
